@@ -1,0 +1,17 @@
+{"researchable": [
+  {
+    "researchID": 0,
+    "researchName": "Efficent fuel",
+    "researchDesc": "makes fuel better",
+    "researchTime": 30,
+    "researchComplete": false
+  },
+  {
+    "researchID": 1,
+    "researchName": "How to Win Friends",
+    "researchDesc": "An ancient test that teaches how to win people over",
+    "researchTime": 45,
+    "researchComplete": false
+  }
+]
+}

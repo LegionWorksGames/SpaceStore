@@ -1,0 +1,22 @@
+﻿{ "jobs": [
+  {
+    "jobID": 0,
+    "jobName": "Salesman",
+    "jobDesc": "Sells things in the store"
+  },
+  {
+    "jobID": 1,
+    "jobName": "Pilot",
+    "jobDesc": "Flys ships and stuff"
+  },
+  {
+    "jobID": 2,
+    "jobName": "Scientist",
+    "jobDesc": "Does Science things"
+  },
+  {
+    "jobID": 3,
+    "jobName": "Engineer",
+    "jobDesc": "Fixes things"
+  }
+]}

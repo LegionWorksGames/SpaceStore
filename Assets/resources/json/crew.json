@@ -1,0 +1,39 @@
+﻿{"member":[
+  {
+    "crewID": 0,
+    "crewName": "Brett",
+    "crewDesc": "n/a",
+    "crewJob": 3,
+	"crewSkill": 0
+
+  },
+  {
+    "crewID": 1,
+    "crewName": "Lina",
+    "crewDesc": "n/a",
+    "crewJob": 3,
+	"crewSkill": 0
+  },
+  {
+    "crewID": 2,
+    "crewName": "Derek",
+    "crewDesc": "n/a",
+    "crewJob": 0,
+	"crewSkill": 0
+  },
+  {
+    "crewID": 3,
+    "crewName": "Nathan",
+    "crewDesc": "n/a",
+    "crewJob": 1,
+	"crewSkill": 0
+  },
+  {
+    "crewID": 4,
+    "crewName": "Dustin",
+    "crewDesc": "n/a",
+    "crewJob": 2,
+	"crewSkill": 0
+  }
+]
+}

@@ -1,0 +1,38 @@
+{ "items" : [
+  {
+    "itemID": 0,
+    "itemName": "Towel",
+    "itemDesc": "A space hitchhiker is nothing without their towel",
+    "itemValue": 20,
+    "itemUseable": false
+  },
+  {
+    "itemID": 1,
+    "itemName": "Flux Capacitor",
+    "itemDesc": "It might be used for time travel",
+    "itemValue": 100,
+    "itemUseable": false
+  },
+  {
+    "itemID": 2,
+    "itemName": "Fuel",
+    "itemDesc": "Powers star ships",
+    "itemValue": 50,
+    "itemUseable": true
+  },
+  {
+    "itemID": 3,
+    "itemName": "Hand Scanners",
+    "itemDesc": "Scans things",
+    "itemValue": 70,
+    "itemUseable": false
+  },
+  {
+    "itemID": 4,
+    "itemName": "Rations",
+    "itemDesc": "Dehydrated food",
+    "itemValue": 10,
+    "itemUseable": false
+  }
+]
+}
