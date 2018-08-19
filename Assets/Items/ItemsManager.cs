@@ -33,4 +33,17 @@ public class Item {
 	public string itemDesc;
 	public int itemValue;
 	public bool itemUseable;
+
+	public Item()
+	{
+		itemID = -1;
+	}
+	public Item(int id, string name, string desc, int value, bool useable)
+	{
+		itemID = id;
+		itemName = name;
+		itemDesc = desc;
+		itemValue = value;
+		itemUseable = useable;
+	}
 }

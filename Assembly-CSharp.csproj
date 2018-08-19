@@ -51,10 +51,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GameManager.cs" />
+     <Compile Include="Assets\inventory\InvAdjust.cs" />
+     <Compile Include="Assets\inventory\Inventory.cs" />
+     <Compile Include="Assets\inventory\InventorySlot.cs" />
      <Compile Include="Assets\Items\CrewManager.cs" />
      <Compile Include="Assets\Items\ItemsManager.cs" />
      <Compile Include="Assets\Items\JobManager.cs" />
      <Compile Include="Assets\Items\ResearchManager.cs" />
+     <Compile Include="Assets\Shop\ShelfManager.cs" />
+     <Compile Include="Assets\Shop\ShelfSpace.cs" />
+     <Compile Include="Assets\store\Store.cs" />
+     <Compile Include="Assets\store\StoreSlot.cs" />
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
